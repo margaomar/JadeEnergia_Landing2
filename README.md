@@ -31,7 +31,7 @@ You can see those four projects live going to:
 **Mobile Device**
 
 
-![Jade Energy Landing 2.](screenshots/landing2_iPhone6.jpg) 
+<img src="screenshots/landing2_iPhone6.jpg" width="320px">
 
 
 ----
@@ -39,8 +39,7 @@ You can see those four projects live going to:
 
 **Desktop Device**
 
-
-![Jade Energy Landing 2.](screenshots/landing2_Desktop.jpg) 
+<img src="screenshots/landing2_Desktop.jpg" width="1024px">
 
 
 
